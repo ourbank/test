@@ -1,6 +1,7 @@
 test :
 1 test2修改了limk分支，我在master分支下pullmaster分支没有更新，pull limk分支让我，提交修改的commit，不然修改会被覆盖，
-所以pull之前最好commit自己的修改，pull limk分支之后，解决完冲突，然后将此段话push到master（test1 2）
+所以pull之前最好commit自己的修改，pull limk分支之后，解决完冲突，然后将此段话push到master（test1 2）,此时远程的master
+分支合并到本地master分支（test1 3）
 
 
 
