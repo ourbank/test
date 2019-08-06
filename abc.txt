@@ -3,7 +3,9 @@ test :
 所以pull之前最好commit自己的修改，pull limk分支之后，解决完冲突，然后将此段话push到master（test1 2）,此时远程的master
 分支合并到本地master分支（test1 3）
 
+2 然后我又新建了个叫limk的分支，默认和master一样的
 
+3 现在远程limk分支，比我这个分支慢很多，先把我的修改commmit一下（test1 4）
 
 test2
 1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支，想要新建limk分支，但是分支默认和master一样，
