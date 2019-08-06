@@ -9,4 +9,4 @@ test :
 
 test2
 1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支，想要新建limk分支，但是分支默认和master一样，
-将limk分支修改为此句话，然后push
+将limk分支修改为此句话，然后push （1）
