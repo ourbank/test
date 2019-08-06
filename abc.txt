@@ -1,15 +1,3 @@
-HEAD
-HEAD
-111
-222
-4444
-33331231
-4444234sa
-3333
-解决完冲突，我还加了这一句
-111asdlk asdkl 2
-iasd 123123123lkasdajskl dj
-f674746c327ce883d8110de649468c471f4e7c5a
-====
-112
-qweqwe 91e2211778d0c52bb7c0cab09747902bdb4c8d47
+1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支
+2 想要新建limk分支，但是分支是空的
+3 需要将修改commit一下
