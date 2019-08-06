@@ -7,6 +7,11 @@ test :
 
 3 现在远程limk分支，比我这个分支慢很多，先把我的修改commmit一下（test1 4）
 
+4 切换到limk分支，pull远端的limk仓库，解决完冲突（test1 5）
+
 test2
 1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支，想要新建limk分支，但是分支默认和master一样，
 将limk分支修改为此句话，然后push （1）
+
+2 第一次checkout之后，需要git那里配置一下，而且书签表示正在编辑，而星号默认给master，黄色标签是HEAD，
+绿色是本地标签，紫色是远程标签(test2 2)
