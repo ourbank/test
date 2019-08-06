@@ -1,3 +1,6 @@
 1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支
 2 想要新建limk分支，但是分支是空的
 3 需要将修改commit一下
+
+第一次checkout之后，需要git那里配置一下，而且书签表示正在编辑，而星号默认给master，黄色标签是HEAD，
+绿色是本地标签，紫色是远程标签(test2 2)
