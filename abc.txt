@@ -1,5 +1,9 @@
-test : test2修改了limk分支，我在master分支下pullmaster分支没有更新，pulllimk分支让我，叫修改的commit
+test :
+1 test2修改了limk分支，我在master分支下pullmaster分支没有更新，pull limk分支让我，提交修改的commit，不然修改会被覆盖，
+所以pull之前最好commit自己的修改，pull limk分支之后，解决完冲突，然后将此段话push到master（test1 2）
 
-1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支
-2 想要新建limk分支，但是分支是空的
-3 需要将修改commit一下
+
+
+test2
+1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支，想要新建limk分支，但是分支默认和master一样，
+将limk分支修改为此句话，然后push
