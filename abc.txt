@@ -1,1 +1,5 @@
 test : test2修改了limk分支，我在master分支下pullmaster分支没有更新，pulllimk分支让我，叫修改的commit
+
+1 git clone 下来之后，只有远程的branch信息，本地的默认只有master分支
+2 想要新建limk分支，但是分支是空的
+3 需要将修改commit一下
